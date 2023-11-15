@@ -20,7 +20,7 @@
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=labid-al-nahiyan&theme=dark&background=000000"></img>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=labid-al-nahiyan&theme=dark" ></img>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labid-al-nahiyan&layout=compact&theme=dark"></img>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=labid-al-nahiyan&layout=compact&theme=dark"></img>
 
 
 ### Connect with me:
