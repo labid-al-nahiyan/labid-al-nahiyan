@@ -10,10 +10,9 @@
  <img src="https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB"></img>
  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"></img>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></img>
- <img src="https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white"></img>
  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"></img>
  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"></img>
- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=black"></img>
+ <img src="https://img.shields.io/badge/SvelteKit-005C84?style=flat-square&logo=sveltekit&logoColor=white"></img>
 </p>
 
 
