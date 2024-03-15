@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></img>
  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"></img>
  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"></img>
- <img src="https://img.shields.io/badge/SvelteKit-005C84?style=flat-square&logo=sveltekit&logoColor=white"></img>
+ <img src="https://img.shields.io/badge/SvelteKit-E03E00?style=flat-square&logo=svelte&logoColor=white"></img>
 </p>
 
 
