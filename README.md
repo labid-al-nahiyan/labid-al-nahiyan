@@ -21,21 +21,19 @@ I am Labid, a student and tech enthusiast with a passion for software developmen
 
 
 <p>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></img>
- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"></img>
- <img src="https://img.shields.io/badge/Typescript-0176C9?style=flat-square&logo=typescript&logoColor=white"></img>
- <img src="https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB"></img>
+ <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"></img>
+ <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge"></img>
+ <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"></img>
  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></img>
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></img>
- <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"></img>
- <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"></img>
- <img src="https://img.shields.io/badge/SvelteKit-E03E00?style=flat-square&logo=svelte&logoColor=white"></img>
+ <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img>
+ <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></img>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></img>
+ <img src="https://img.shields.io/badge/SvelteKit-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"></img>
 </p>
 
 
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=labid-al-nahiyan&theme=dark&background=000000"></img>
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labid-al-nahiyan&layout=compact&theme=dark"></img>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=labid-al-nahiyan&theme=dark" ></img>
 
 
